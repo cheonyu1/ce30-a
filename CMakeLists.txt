@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(lidar_ce30a)
+project(ce30a)
 
 add_compile_options(-std=c++11)
 
